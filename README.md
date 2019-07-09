@@ -2,7 +2,13 @@
 
 > A Vue.js project
 
-## Build Setup
+## App URL
+> https://weather-forecast-vuejs-app.netlify.com
+
+### App Introduction
+ This is an VueJs application, in which you can get the last updated weather-related information of a city by searching the name of the city. There is also a seven-day forecast option.
+
+#### Build Setup
 
 ``` bash
 # install dependencies
